@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 💼 I'm a Junior Back End Engineer at Bytedance Group.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A11Might)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **A11Might/A11Might** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
