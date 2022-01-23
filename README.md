@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=A11Might&color=ff69b4)
+
 - 💼 I'm a Junior Back End Engineer at Bytedance Group.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=A11Might)](https://github.com/anuraghazra/github-readme-stats)
